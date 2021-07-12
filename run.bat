@@ -1,0 +1,3 @@
+node steambot.js
+pause
+

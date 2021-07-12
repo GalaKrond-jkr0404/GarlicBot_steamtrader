@@ -1,0 +1,45 @@
+{
+    "Scrap Metal":
+    {
+      "buy":1,
+      "sell":1
+
+    },
+
+    "Reclaimed Metal":
+    {
+      "buy":3,
+      "sell":3
+
+    },
+
+    "Refined Metal":
+    {
+      "buy":9,
+      "sell":9
+
+    },
+
+
+    "Refined Metal":
+    {
+      "buy":9,
+      "sell":9
+
+    },
+
+
+    "Koala Compact":
+    {
+      "buy":9,
+      "sell":9
+
+    },
+
+    "Mann Co. Supply Crate Key":
+    {
+      "buy":9,
+      "sell":9
+
+    }
+}
